@@ -12,6 +12,9 @@
       },
       "additionalProperties": false
     }
+  }
+  "errorMessage": {
+    "additionalProperties": "Invalid key in 'override'. Allowed keys: rex-release, rex-infra"
   },
   "additionalProperties": false
 }
