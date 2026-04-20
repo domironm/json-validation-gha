@@ -14,3 +14,4 @@ jobs:
         uses: cardinalby/schema-validator-action@v3
         with:
           file: '*.json'
+          schema: 'json-schema.json'
