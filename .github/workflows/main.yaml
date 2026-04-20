@@ -14,4 +14,4 @@ jobs:
         uses: cardinalby/schema-validator-action@v3
         with:
           file: 'trailing-comma.json'
-          schema: 'json-schema.json'
+          schema: 'test-jsons/*.json'
