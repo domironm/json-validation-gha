@@ -2,6 +2,6 @@
   "release": "3.9.23",
   "override": {
     "rex-release": "9999.9999.9999",
-    "rex-infra": "9999.9999.9999"
+    "rex-infra": "9999.9999.9999",
   }
 }
