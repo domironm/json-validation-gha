@@ -13,5 +13,5 @@ jobs:
       - name: Validate all json files using their own $schema properties
         uses: cardinalby/schema-validator-action@v3
         with:
-          file: 'trailing-comma.json'
-          schema: 'test-jsons/*.json'
+          file: 'test-jsons/*.json'
+          schema: 'json-schema.json'
